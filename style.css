@@ -24,7 +24,9 @@
     width: auto;
     height: 35px;
 }
-
+#navbar li a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
 #dropdown-menu a {
     font-size: 14px;
     padding: 8px 20px;
